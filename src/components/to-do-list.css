@@ -1,0 +1,11 @@
+
+.to-do-list{
+    background-color: white;
+    padding: 1rem;
+    border: 2px solid lightgrey;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    height: 50vh;
+    width: 50vw;
+    margin: 200px 0px 0px 500px;
+}
